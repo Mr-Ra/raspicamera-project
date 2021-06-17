@@ -1,0 +1,12 @@
+El software debe tener:
+Vista previa
+Cambiar la resolución
+Cambiar valor iso
+Rotación de imagen #no documentado
+Time lapse      #faltante
+Ráfagas de fotos muy rápidas    #faltante
+
+Y el más importante parámetro para mi es:
+Velocidad de obturación 
+
+La velocidad de obturación la vamos a usar para poder tener una imagen del vehículo nítida.
